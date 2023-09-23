@@ -8,3 +8,6 @@ url: ""
 
 sass:
   sass_dir: assets/css/scss
+
+plugins:
+  - jekyll-redirect-from
