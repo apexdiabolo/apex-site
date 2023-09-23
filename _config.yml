@@ -1,0 +1,12 @@
+title: VERTAX
+permalink: ':title/'
+email: vertaxdiabolo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Vertax Diabolo Performance Group at University of Florida
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""
+
+sass:
+  sass_dir: assets/css/scss
+
+analytics: UA-131441455-1

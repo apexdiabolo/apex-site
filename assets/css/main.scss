@@ -1,0 +1,91 @@
+---
+---
+
+body, html {
+    background-color: black;
+    color: white;
+    height: 100%;
+    font: 100 15px/1.2 "Syncopate", sans-serif;
+    text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 100;
+}
+
+h1 {
+    letter-spacing: 3px;
+}
+
+h2 {
+    letter-spacing: 2px;
+}
+
+hr {
+    opacity: .5;
+}
+
+#bg {
+    background-image:url('/assets/img/logo.svg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    height: 100%;
+    opacity: .15;
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+#main-content {
+    text-transform: none;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    letter-spacing: 2px;
+    line-height: 1.8;
+    font-weight: 100;
+
+    max-width: calc(800px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.spacer {
+    height: 30px;
+}
+
+.spacer-half {
+    height: 10%;
+}
+
+a.no-decoration {
+    text-decoration: none;
+    color: inherit;
+}
+
+a.no-color {
+    color: inherit;
+}
+
+.vcenter {
+    height: 100%;
+    margin: 0;
+    top: 50%;
+}
+
+@import 'parts/nav.scss';
+@import 'parts/yt-embed.scss';

@@ -1,0 +1,46 @@
+.main-nav {
+    text-align: center;
+
+    .nav-link {
+        text-align: center;
+        display: inline;
+        padding: 0 4vw;
+        font-size: 2vw;
+    }
+
+    .nav-link.current {
+        color: #999;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    #vertax-title {
+        font-size: 5vw;
+        margin-bottom: 0;
+    }
+
+    #dpg {
+        font-size: 1.5vw;
+        margin-top: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .main-nav {
+        .nav-link {
+            font-size: 18px;
+            padding: 0 10px;
+        }
+
+        #vertax-title {
+            font-size: 36px;
+        }
+
+        #dpg {
+            font-size: 12px;
+        }
+    }
+}
