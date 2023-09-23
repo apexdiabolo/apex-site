@@ -2,31 +2,19 @@
 layout: main-centered
 ---
 
-Vertax was Florida's 1<sup>st</sup> college-level diabolo performance group that performed at various student-led events and talent shows across the state.
+By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
 
-Our last performance was in the fall of 2019. After 5 years of fun, circumstances such as graduating members and the COVID-19 pandemic brought our journey to an end.
+We have performed in and around the Seattle area as well as Richmond Night Market in Canada.
 
-If you are reading this as a student interested in starting a team under the name of Vertax, message <a class="no-decoration" href="https://www.instagram.com/victor_diabolo" target="blank">victor_diabolo</a> on Instagram.
+Whether you are looking for the next showstopper at your event, lessons for your children or students, or are interested in joining our team, please reach out to us through a Facebook message or email!
 
 <div class="spacer"></div>
 
-## ALUMNI
+## Active Members
 
-- Kevin Chang
-- Huy Tran
-- Prakash Pudhucode
+- Jason Pao
 - Victor Lin
-- Zach Luz
-- Arjun Tamrakar
-- Momin Haider
-- Andy Ho
-- Sabrina Chen
-- Srajat Rastogi
-- Brian Koehler
-- Cindy Lin
-- Jessica Hong
-- Mickey Davis
-- Lohith Srikakolapu
+- Ronald Tam
 
 
 <style>
