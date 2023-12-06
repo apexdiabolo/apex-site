@@ -12,6 +12,12 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 <div class="spacer"></div>
 
+## Shop
+
+Looking to purchase your own diabolo? We recommend [Sundia USA](https://www.sundiausa.com). We also have some surplus gear available for local sale in the Seattle area. Drop us an email if you are interested in buying from us.
+
+<div class="spacer"></div>
+
 ## Active Members
 
 - Jason Pao
