@@ -25,6 +25,8 @@ Looking to purchase your own diabolo? We recommend [Sundia USA](https://www.sund
 - Ronald Tam
 - Nick Tse
 
+<div class="spacer"></div>
+<div class="spacer"></div>
 
 <style>
 ul {
