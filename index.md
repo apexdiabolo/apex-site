@@ -42,4 +42,9 @@ ul {
   padding: 0;
   margin: 0;
 }
+
+li {
+    text-indent: -1em;
+    padding-left: 1em;
+}
 </style>
