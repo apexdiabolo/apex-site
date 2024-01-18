@@ -16,6 +16,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 - \[Feb 3, 2024\] [Lunar New Year Celebration](https://bellevuecollection.com/lunarnewyear/) at Bellevue Square. We will be having a public rehearsal around 11:30am and performing between 1:30pm – 2:00pm.
 - \[Feb 4, 2024\] [Tết in Seattle](https://www.seattlecenter.com/events/featured-events/festal/tet-in-seattle) at the Seattle Center. This is a two-day event. We will be performing around 2:30pm on the second day.
+- \[Feb 17, 2024\] [UW CSA's 57th Annual Lunar New Year Gala](https://www.facebook.com/events/6901218109946038/) at Kane Hall. Performances start at 7pm.
 - \[Feb 24, 2024\] [APCC 26th Annual New Year Celebration](https://www.asiapacificculturalcenter.org/post/vendor-booth-applications-are-open-for-our-26th-annual-new-year-celebration-showcasing-taiwan) at the Tacoma Dome Exhibition Hall. We will be performing around 12pm.
 
 <div class="spacer"></div>
