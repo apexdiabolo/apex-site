@@ -28,9 +28,11 @@ Looking to purchase your own diabolo? We recommend [Sundia USA](https://www.sund
 ## Active Members
 
 - Jason Pao
-- Victor Lin
+- Michael Lai
 - Ronald Tam
-- Nick Tse
+- Ronnie Chen
+- Tina Liu
+- Victor Lin
 
 <div class="spacer"></div>
 <div class="spacer"></div>
