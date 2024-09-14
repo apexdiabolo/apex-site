@@ -14,8 +14,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 ## Upcoming Performances
 
-- \[Saturday, Sep 7, 2024\] [CID Celebration](https://www.seattlecidcelebration.com) at Hing Hay Park. Performance time ~1:30pm.
-- \[Saturday, Sep 21, 2024\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at Hing Hay Park. Performance time TBD, likely around sunset.
+- \[Saturday, Sep 21, 2024\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at Hing Hay Park. Performance scheduled for 2pm.
 
 <div class="spacer"></div>
 
