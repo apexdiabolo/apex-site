@@ -14,7 +14,8 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 ## Upcoming Performances
 
-- \[Saturday, Sep 21, 2024\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at Hing Hay Park. Performance scheduled for 2pm.
+- \[Saturday, Jan 25, 2025\] Lunar New Year Celebration at Bellevue Square. Time TBD.
+- \[Sunday, Jan 26, 2025\] [Tết in Seattle](https://www.seattlecenter.com/events/featured-events/festal/tet-in-seattle) at the Seattle Center. This is a two-day event. We will be performing on the second day. Time TBD.
 
 <div class="spacer"></div>
 
