@@ -28,6 +28,7 @@ Looking to purchase your own diabolo? We recommend [Sundia USA](https://www.sund
 
 - Jason Pao
 - Michael Lai
+- Nick Tse
 - Ronald Tam
 - Ronnie Chen
 - Tina Liu
