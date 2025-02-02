@@ -12,14 +12,6 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 <div class="spacer"></div>
 
-## Upcoming Performances
-
-- \[Saturday, Jan 25, 2025\] [Lunar New Year Celebration](https://bellevuecollection.com/lunarnewyear/) at Bellevue Square. 1st show 11:15am, 2nd show 2pm.
-- \[Sunday, Jan 26, 2025\] [Tết in Seattle](https://www.seattlecenter.com/events/featured-events/festal/tet-in-seattle) at the Seattle Center. This is a two-day event. We will be performing on the second day at 1:30pm.
-- \[Sunday, Jan 26, 2025\] [UWCSSA蛇年春晚](https://mp.weixin.qq.com/s/V6JPILhFEQKTIZbu_hcgiQ) at the University of Washington. Event starts at 6:30pm.
-
-<div class="spacer"></div>
-
 ## Shop
 
 Looking to purchase your own diabolo? We recommend the [Sundia](https://www.sundiasports.com/en/product.html) brand, available in the United States through [Amazon](https://www.amazon.com/stores/SUNDIA/SUNDIA/page/A48D7193-1B2C-4DE3-AE3C-1AD8DA3055B3), [Renegade Juggling](https://www.renegadejuggling.com), [Sundia USA](https://www.sundiausa.com), and more. We also have some surplus gear available for local sale in the Seattle area. Drop us an email if you are interested in buying from us.
