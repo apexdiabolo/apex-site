@@ -12,6 +12,13 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 <div class="spacer"></div>
 
+## Upcoming Performances
+
+- \[Saturday, May 3, 2025\] [Asian American Native Hawaiian Pacific Islander Heritage Month Celebration](https://www.seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration) at Seattle Center. We will be performing at 1:00pm.
+- \[Saturday, May 3, 2025\] [UW Night Market](http://www.uwnightmarket.com) at University of Washington Red Square. Event starts at 4:30pm. Show time TBD.
+
+<div class="spacer"></div>
+
 ## Shop
 
 Looking to purchase your own diabolo? We recommend the [Sundia](https://www.sundiasports.com/en/product.html) brand, available in the United States through [Amazon](https://www.amazon.com/stores/SUNDIA/SUNDIA/page/A48D7193-1B2C-4DE3-AE3C-1AD8DA3055B3), [Renegade Juggling](https://www.renegadejuggling.com), [Sundia USA](https://www.sundiausa.com), and more. We also have some surplus gear available for local sale in the Seattle area. Drop us an email if you are interested in buying from us.
