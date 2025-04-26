@@ -15,7 +15,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 ## Upcoming Performances
 
 - \[Saturday, May 3, 2025\] [Asian American Native Hawaiian Pacific Islander Heritage Month Celebration](https://www.seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration) at Seattle Center. We will be performing at 1:00pm.
-- \[Saturday, May 3, 2025\] [UW Night Market](http://www.uwnightmarket.com) at University of Washington Red Square. Event starts at 4:30pm. Show time TBD.
+- \[Saturday, May 3, 2025\] [UW Night Market](https://www.instagram.com/uwnightmarket/) at University of Washington Red Square. Event starts at 4:30pm. Show time TBD.
 
 <div class="spacer"></div>
 
