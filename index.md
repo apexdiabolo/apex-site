@@ -14,8 +14,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 ## Upcoming Performances
 
-- \[Saturday, May 3, 2025\] [Asian American Native Hawaiian Pacific Islander Heritage Month Celebration](https://www.seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration) at [Seattle Center Armory](https://maps.app.goo.gl/qnxgtNGvP5tDUr3W6). We will be performing at 1:00pm.
-- \[Saturday, May 3, 2025\] [UW Night Market](https://www.instagram.com/uwnightmarket/) at [University of Washington Red Square](https://maps.app.goo.gl/QC9zLSe32CH4M6ex6). Event starts at 4:30pm. We will be performing at 5:30pm.
+- \[Saturday, May 17, 2025\] [Peony Festival](https://www.seattlechinesegarden.org/events/peony-festival-2025) at [Seattle Chinese Garden](https://maps.app.goo.gl/5DiZ9p24fjyoH1at9). This is a two-day event. We will be there on the first day, with a performance at 1:00pm and workshop time TBD.
 
 <div class="spacer"></div>
 
