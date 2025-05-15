@@ -14,7 +14,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 ## Upcoming Performances
 
-- \[Saturday, May 17, 2025\] [Peony Festival](https://www.seattlechinesegarden.org/events/peony-festival-2025) at [Seattle Chinese Garden](https://maps.app.goo.gl/5DiZ9p24fjyoH1at9). This is a two-day event. We will be there on the first day, with a performance at 1:00pm and workshop time TBD.
+- \[Saturday, May 17, 2025\] [Peony Festival](https://www.seattlechinesegarden.org/events/peony-festival-2025) at [Seattle Chinese Garden](https://maps.app.goo.gl/5DiZ9p24fjyoH1at9). This is a two-day event. Pending weather, we will be there on the first day, with a performance at 1:00pm followed by a workshop.
 
 <div class="spacer"></div>
 
