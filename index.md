@@ -12,12 +12,6 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 <div class="spacer"></div>
 
-## Upcoming Performances
-
-- \[Saturday, May 17, 2025\] [Peony Festival](https://www.seattlechinesegarden.org/events/peony-festival-2025) at [Seattle Chinese Garden](https://maps.app.goo.gl/5DiZ9p24fjyoH1at9). This is a two-day event. Pending weather, we will be there on the first day, with a performance at 1:00pm followed by a workshop.
-
-<div class="spacer"></div>
-
 ## Shop
 
 Looking to purchase your own diabolo? We recommend the [Sundia](https://www.sundiasports.com/en/product.html) brand, available in the United States through [Amazon](https://www.amazon.com/stores/SUNDIA/SUNDIA/page/A48D7193-1B2C-4DE3-AE3C-1AD8DA3055B3), [Renegade Juggling](https://www.renegadejuggling.com), [Sundia USA](https://www.sundiausa.com), and more. We also have some surplus gear available for local sale in the Seattle area. Drop us an email if you are interested in buying from us.
