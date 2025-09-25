@@ -14,7 +14,7 @@ Whether you are looking for the next showstopper at your event, lessons for your
 
 ## Upcoming Performances
 
-- \[Saturday, September 27, 2025\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). Performance time TBD, likely around 6:00pm.
+- \[Saturday, September 27, 2025\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). We will be performing at 4:15pm.
 
 <div class="spacer"></div>
 
