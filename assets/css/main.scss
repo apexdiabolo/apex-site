@@ -29,6 +29,13 @@ hr {
     opacity: .5;
 }
 
+iframe {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
 #bg {
     background-image:url('/assets/img/logo.svg');
     background-repeat:no-repeat;

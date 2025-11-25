@@ -6,7 +6,7 @@ layout: main-centered
 
 By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
 
-We have performed in and around the Seattle area as well as Richmond Night Market in Canada.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/afriWVf5pl0?autoplay=1" title="YouTube video player" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Whether you are looking for the next showstopper at your event, lessons for your children or students, or are interested in joining our team, please reach out to us through a Facebook message or email!
 
