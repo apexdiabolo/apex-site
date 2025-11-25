@@ -2,6 +2,12 @@
 layout: main-centered
 ---
 
+## Upcoming Performances
+
+- \[Saturday, December 6, 2025\] [Holiday Event](https://pacificplaceseattle.com/events/pacific-place-frosty-fun-at-pacific-place) at [Pacific Place](https://maps.app.goo.gl/kVetSLbbu2wyK6uR9). This is a multi-week event. We will be performing on December 6 at 2:15pm on the first floor of the mall.
+
+<div class="spacer"></div>
+
 ## About
 
 By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
