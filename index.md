@@ -26,6 +26,7 @@ Looking to purchase your own diabolo? We recommend the [Sundia](https://www.sund
 
 ## Active Members
 
+- Chase Lee
 - Patrick Huang
 - Ronald Tam
 - Ronnie Chen
