@@ -2,7 +2,6 @@
 ---
 
 body, html {
-    background-color: light-dark(white, black);
     color: light-dark(black, white);
     height: 100%;
     font: 100 15px/1.2 "Syncopate", sans-serif;
@@ -45,9 +44,12 @@ iframe {
     -moz-background-size: contain;
     -o-background-size: contain;
     background-size: contain;
-    height: 100%;
     opacity: .15;
-    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 @media (prefers-color-scheme: dark) {
