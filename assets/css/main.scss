@@ -2,8 +2,8 @@
 ---
 
 body, html {
-    background-color: black;
-    color: white;
+    background-color: light-dark(white, black);
+    color: light-dark(black, white);
     height: 100%;
     font: 100 15px/1.2 "Syncopate", sans-serif;
     text-transform: uppercase;
@@ -37,7 +37,7 @@ iframe {
 }
 
 #bg {
-    background-image:url('/assets/img/logo.svg');
+    background-image:url('/assets/img/logo-black.svg');
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-position: center center;
@@ -48,6 +48,12 @@ iframe {
     height: 100%;
     opacity: .15;
     position: relative;
+}
+
+@media (prefers-color-scheme: dark) {
+    #bg {
+        background-image: url('/assets/img/logo.svg');
+    }
 }
 
 .container {
