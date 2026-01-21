@@ -2,6 +2,13 @@
 layout: main-centered
 ---
 
+## Upcoming Performances
+
+- \[Sunday, Feb 15, 2026\] [Tết in Seattle](https://www.seattlecenter.com/events/featured-events/festal/tet-in-seattle) at the Seattle Center Armory. This is a two-day event. We are scheduled to perform on the second day at 12:30pm.
+- \[Sunday, Feb 15, 2026\] [UW CSA 59th Annual Lunar New Year Gala](https://www.facebook.com/events/1812589269440275/) at the University of Washington. Performances start at 7pm.
+- \[Saturday, Feb 21, 2026\] [Lunar New Year Celebration](https://bellevuecollection.com/lunarnewyear/) at Bellevue Square. Solo act by Victor Lin. Performance time TBD.
+- \[Saturday, Feb 28, 2026\] [APCC 28th Annual New Year Celebration](https://www.asiapacificculturalcenter.org/newyearcelebration) at the Tacoma Dome Exhibition Hall. Performance time TBD.
+
 ## About
 
 By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
