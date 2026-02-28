@@ -4,8 +4,7 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, Feb 21, 2026\] [Lunar New Year Celebration](https://bellevuecollection.com/lunarnewyear/) at Bellevue Square. Solo act by Victor Lin. Scheduled for 11am and 2pm.
-- \[Saturday, Feb 28, 2026\] [APCC 28th Annual New Year Celebration](https://www.asiapacificculturalcenter.org/newyearcelebration) at the Tacoma Dome Exhibition Hall. Performance time TBD.
+- \[Saturday, Feb 28, 2026\] [APCC 28th Annual New Year Celebration](https://www.asiapacificculturalcenter.org/newyearcelebration) at the Tacoma Dome Exhibition Hall. Our performance is scheduled for 3pm.
 - \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Workshop, time TBD.
 - \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Performance at closing ceremony, time TBD.
 
