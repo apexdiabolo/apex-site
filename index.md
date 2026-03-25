@@ -4,8 +4,7 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, Feb 28, 2026\] [APCC 28th Annual New Year Celebration](https://www.asiapacificculturalcenter.org/newyearcelebration) at the Tacoma Dome Exhibition Hall. Our performance is scheduled for 3pm.
-- \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Workshop, time TBD.
+- \[Saturday, Apr 4, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Workshop 12-1pm.
 - \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Performance at closing ceremony, time TBD.
 
 ## About
