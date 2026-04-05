@@ -5,7 +5,7 @@ layout: main-centered
 ## Upcoming Events
 
 - \[Saturday, Apr 4, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Workshop 12-1pm.
-- \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Performance at closing ceremony, time TBD.
+- \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Performance at closing ceremony, 4pm.
 
 ## About
 
