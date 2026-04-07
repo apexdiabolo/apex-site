@@ -4,8 +4,8 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, Apr 4, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Workshop 12-1pm.
-- \[Sunday, Apr 5, 2026\] [Sakura-Con Northwest Anime Convention](https://sakuracon.org) at Seattle Convention Center. Paid event. Performance at closing ceremony, 4pm.
+- \[Saturday, May 2, 2026\] [Asian American Native Hawaiian Pacific Islander Heritage Month Celebration](https://www.seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration) at [Seattle Center Armory](https://maps.app.goo.gl/qnxgtNGvP5tDUr3W6). Performance scheduled for 2:45pm.
+- \[Saturday, May 23, 2026\] [UW Night Market](https://www.instagram.com/uwnightmarket/) at [University of Washington Red Square](https://maps.app.goo.gl/QC9zLSe32CH4M6ex6). Performance time TBD.
 
 ## About
 
