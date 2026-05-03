@@ -4,7 +4,6 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, May 2, 2026\] [Asian American Native Hawaiian Pacific Islander Heritage Month Celebration](https://www.seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration) at [Seattle Center Armory](https://maps.app.goo.gl/qnxgtNGvP5tDUr3W6). Performance scheduled for 2:45pm.
 - \[Saturday, May 23, 2026\] [UW Night Market](https://www.instagram.com/uwnightmarket/) at [University of Washington Red Square](https://maps.app.goo.gl/QC9zLSe32CH4M6ex6). Performance time TBD.
 
 ## About
