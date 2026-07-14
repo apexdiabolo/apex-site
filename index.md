@@ -4,7 +4,9 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, May 23, 2026\] [UW Night Market](https://www.instagram.com/uwnightmarket/) at [University of Washington Red Square](https://maps.app.goo.gl/QC9zLSe32CH4M6ex6). Performance time TBD.
+- \[Saturday, July 18, 2026\] [Downtown Seattle Block Party!](https://nordstromrsvp.com/BlockPartySEA) at [Westlake Park](https://maps.app.goo.gl/tY2Ha1ypU9eM3NwQ7). Performance scheduled for 11:30am.
+- \[Saturday, July 18, 2026\] [CID Celebration](https://www.seattlecidcelebration.com) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). Performance time TBD.
+- \[Sunday, July 19, 2026\] [Downtown Seattle Block Party!](https://nordstromrsvp.com/BlockPartySEA) at [Westlake Park](https://maps.app.goo.gl/tY2Ha1ypU9eM3NwQ7). Performance scheduled for 11:30am.
 
 ## About
 
