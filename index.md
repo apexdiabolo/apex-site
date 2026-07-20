@@ -4,9 +4,7 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, July 18, 2026\] [Downtown Seattle Block Party!](https://nordstromrsvp.com/BlockPartySEA) at [Westlake Park](https://maps.app.goo.gl/tY2Ha1ypU9eM3NwQ7). Performance scheduled for 11:30am.
-- \[Saturday, July 18, 2026\] [CID Celebration](https://www.seattlecidcelebration.com) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). Performance scheduled for 3:30pm.
-- \[Sunday, July 19, 2026\] [Downtown Seattle Block Party!](https://nordstromrsvp.com/BlockPartySEA) at [Westlake Park](https://maps.app.goo.gl/tY2Ha1ypU9eM3NwQ7). Performance scheduled for 11:30am.
+- \[Saturday, August 22, 2026\] [Richmond Night Market](https://www.richmondnightmarket.com) in Richmond, BC. Performance scheduled for 7:00pm.
 
 ## About
 
