@@ -4,7 +4,7 @@ layout: main-centered
 
 ## Upcoming Events
 
-- \[Saturday, August 22, 2026\] [Richmond Night Market](https://www.richmondnightmarket.com) in Richmond, BC. Performance scheduled for 7:00pm.
+- \[Saturday, September 26, 2026\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). We will be performing at 2:30pm.
 
 ## About
 
