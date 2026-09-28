@@ -2,10 +2,6 @@
 layout: main-centered
 ---
 
-## Upcoming Events
-
-- \[Saturday, September 26, 2026\] [CID Night Market](https://www.seattlechinatownid.com/experiences/c-id-night-market) at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). We will be performing at 2:30pm.
-
 ## About
 
 By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
