@@ -2,6 +2,10 @@
 layout: main-centered
 ---
 
+## Upcoming Events
+
+- \[Saturday, October 10, 2026\] Taiwan National Day Celebration at [Hing Hay Park](https://maps.app.goo.gl/zcBxeebqQCFsSije8). Victor will be performing a solo at ~1:00pm.
+
 ## About
 
 By combining elements of modern pop with traditional training from professional teams overseas we aim to convey to audiences the exciting art of diabolo.
